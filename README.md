@@ -1,5 +1,5 @@
 # nixdef
-Very simple python script for finding definition of Nix functions (top-level packages).
+Simple python script for finding definition of Nix functions (top-level packages).
 
 ### Start here
 
