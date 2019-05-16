@@ -15,7 +15,7 @@ Make the script executable and put it in your PATH.
 git clone https://github.com/adamczykm/nixdef
 cd nixdef
 chmod u+x nix-def.py
-ln -s nix-def.py ~/local/bin/nixdef 
+ln -s nix-def.py ~/.local/bin/nixdef 
 ```
 
 ### Example usages
